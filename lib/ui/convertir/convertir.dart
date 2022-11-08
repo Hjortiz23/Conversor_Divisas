@@ -79,7 +79,6 @@ class _ConvertirState extends State<Convertir> {
         dolarR = false;
         indR = 2;
       }
-      
     }
     conversion();
 
