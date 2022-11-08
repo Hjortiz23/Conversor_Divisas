@@ -9,9 +9,9 @@ class Convertir extends StatefulWidget {
 
 class _ConvertirState extends State<Convertir> {
   List<List<double>> factor = [
-    [1, 4000, 5000],
-    [0.00025, 1, 1.25],
-    [0.0002, 0.8, 1]
+    [1, 4974, 5100],
+    [0.00020, 1, 1.025],
+    [0.00019, 0.975, 1]
   ];
 
   bool pesoI = false;
