@@ -103,7 +103,7 @@ class _ConvertirState extends State<Convertir> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('Grupo 2 - NRC 2290'),
+        title: const Text('Currency Converte - Grupo 2 NRC 2290'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
